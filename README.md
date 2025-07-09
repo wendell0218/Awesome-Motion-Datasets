@@ -4041,6 +4041,7 @@ Worcester Polytechnic Institute<br>
 • Dataset: X-RAGE, Samples: 8064, Modality: event camera<br>
 </td></tr>
 </table>
+
 ## 💪 How to Contribute
 
 If you have a paper or are aware of relevant research that should be incorporated, please contribute via pull requests, issues, email, or other suitable methods.
