@@ -4040,6 +4040,365 @@ Worcester Polytechnic Institute<br>
 <tr><td colspan="4">• Affiliation: Department of Electrical Engineering, Indian Institute of Technology Delhi, New Delhi, India - 110016<br>
 • Dataset: X-RAGE, Samples: 8064, Modality: event camera<br>
 </td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.17534"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Coo1Sea/OVT-B-Dataset"><img src="https://img.shields.io/github/stars/Coo1Sea/OVT-B-Dataset.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Software Technology, Zhejiang University<br>
+• Dataset: OVT-B, Samples: 1973, Modality: RGB videos + bounding box annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>E-3DGS: Gaussian Splatting with Exposure and Motion Events</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.16995"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/MasterHow/E-3DGS"><img src="https://img.shields.io/github/stars/MasterHow/E-3DGS.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: State Key Laboratory of Modern Optical Instrumentation, Zhejiang University, China<br>
+• Dataset: EME-3D, Samples: 9, Modality: Event data (motion and exposure), camera parameters, sparse point clouds<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Pedestrian motion prediction evaluation for urban autonomous driving</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.16864"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/dmytrozabolotnii/autoware-mini"><img src="https://img.shields.io/github/stars/dmytrozabolotnii/autoware-mini.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Computer Science, University of Tartu<br>
+• Dataset: Tartu Autonomous Vehicle Dataset, Samples: 18 scenes, Modality: LiDAR<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MPT: A Large-scale Multi-Phytoplankton Tracking Benchmark</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.16695"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/chyangyu/MPT.git"><img src="https://img.shields.io/github/stars/chyangyu/MPT.git.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: College of Computer Science and Technology, Ocean University of China, Qingdao, China<br>
+• Dataset: MPT (Multiple Phytoplankton Tracking), Samples: 140, Modality: High-resolution videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MotionGlot: A Multi-Embodied Motion Generation Model</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.16623"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://ivl.cs.brown.edu/research/motionglot.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Brown University, USA<br>
+• Dataset: QUAD-LOCO, Samples: 48000 trajectories, Modality: Quadruped robot trajectories (velocities) + text annotations<br>
+• Dataset: QUES-CAP, Samples: 23000 prompts, Modality: Situational text prompts (questions) paired with human motion data<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.15730"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="MSGField.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei 230026, China<br>
+• Dataset: MSGField Dataset, Samples: 4, Modality: RGB video sequences<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.15154"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/MCCodeAI/MCCoder"><img src="https://img.shields.io/github/stars/MCCodeAI/MCCoder.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Thrust of Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou)<br>
+• Dataset: MCEVAL, Samples: 186, Modality: Programming tasks (natural language instruction, canonical Python code) which generate motion trajectories for a soft-motion controller.<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Quanta Video Restoration</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.14994"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/chennuriprateek/Quanta_Video_Restoration-QUIVER-"><img src="https://img.shields.io/github/stars/chennuriprateek/Quanta_Video_Restoration-QUIVER-.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Purdue University<br>
+• Dataset: I 2-2000FPS, Samples: 280, Modality: High-speed grayscale videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Unlabeled Action Quality Assessment Based on Multi-dimensional Adaptive Constrained Dynamic Time Warping</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.14161"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: College of Computer and Cyber Security, Fujian Normal University, Fuzhou, China<br>
+• Dataset: BGym, Samples: 153, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Skill Generalization with Verbs</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.14118"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://rachelma80000.github.io/SkillGenVerbs/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Brown University, Providence, RI, USA<br>
+• Dataset: No explicit name given, Samples: 41688, Modality: RGB image sequences of object trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.13830"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://dreamvideo2.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Fudan University<br>
+• Dataset: DreamVideo-2 Dataset, Samples: 230160, Modality: RGB videos with captions, frame-level masks, and bounding boxes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.13790"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/liangxuy/MotionBank"><img src="https://img.shields.io/github/stars/liangxuy/MotionBank.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Eastern Institute of Technology, Ningbo<br>
+• Dataset: MotionBank, Samples: 1240000, Modality: SMPL parameters extracted from videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Arc-Length-Based Warping for Robot Skill Synthesis from Multiple Demonstrations</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.13322"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/AutoLabModena/AutoLab-Co-Manipulation-Dataset.git"><img src="https://img.shields.io/github/stars/AutoLabModena/AutoLab-Co-Manipulation-Dataset.git.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The Italian Institute of Technology, Genova, Italy<br>
+• Dataset: AutoLab Co-Manipulation Dataset, Samples: 126, Modality: robot end-effector position recordings<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>QueensCAMP: an RGB-D dataset for robust Visual SLAM</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.12520"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/larocs/queenscamp-dataset"><img src="https://img.shields.io/github/stars/larocs/queenscamp-dataset.svg?style=social&label=Star"></a><br><a href="https://larocs.github.io/queenscamp-dataset"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Computing, Universidade de Campinas<br>
+• Dataset: QueensCAMP, Samples: 112, Modality: RGB-D videos + 6DoF pose trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.11838"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://hifi-diffusion.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Google<br>
+• Dataset: LaMoR, Samples: 19, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Look Ma, no markers: holistic performance capture without the hassle</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.11520"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://aka.ms/SynthMoCap"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Microsoft<br>
+• Dataset: SynthBody, Samples: 100000, Modality: Synthetic RGB images + 2D landmarks + semantic segmentation + 3D joint locations + SMPL-H parameters<br>
+• Dataset: SynthFace, Samples: 100000, Modality: Synthetic RGB images + 2D landmarks + semantic segmentation + head pose<br>
+• Dataset: SynthHand, Samples: 100000, Modality: Synthetic RGB images + 2D/3D joint locations + MANO parameters<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.10818"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://TemporalBench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Wisconsin-Madison<br>
+• Dataset: TemporalBench, Samples: 2179, Modality: RGB videos + text annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>LVD-2M: A Long-take Video Dataset with Temporally Dense Captions</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.10816"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/SilentView/LVD-2M"><img src="https://img.shields.io/github/stars/SilentView/LVD-2M.svg?style=social&label=Star"></a><br><a href="https://silentview.github.io/LVD-2M/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The University of Hong Kong<br>
+• Dataset: LVD-2M, Samples: 2000000, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.10453"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/HanLingsgjk/UnifiedGeneralization"><img src="https://img.shields.io/github/stars/HanLingsgjk/UnifiedGeneralization.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Nanjing University of Science and Technology<br>
+• Dataset: GS58, Samples: 58800, Modality: RGB image pairs + optical flow labels / stereo disparity labels<br>
+• Dataset: NeRF58, Samples: 58800, Modality: RGB image pairs + optical flow labels / stereo disparity labels<br>
+• Dataset: 3D Flight Foreground Database, Samples: 250000, Modality: RGB image pairs + optical flow labels<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.09374"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/NAIL-HNU/ESVO2.git"><img src="https://img.shields.io/github/stars/NAIL-HNU/ESVO2.git.svg?style=social&label=Star"></a><br><a href="https://youtu.be/gmAU32Oeiv8"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Neuromorphic Automation and Intelligence Lab (NAIL) at School of Robotics, Hunan University, Changsha, China<br>
+• Dataset: hnu mapping and hnu tracking, Samples: 2, Modality: Stereo event camera, IMU, GNSS (RTK)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.09243"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://UARK-AICV.github.io/G2MOT"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Arkansas<br>
+• Dataset: G2MOT, Samples: 253, Modality: RGB videos + bounding box tracks + textual descriptions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MMHead: Towards Fine-grained Multi-modal 3D Facial Animation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.07757"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://wsj-sjtu.github.io/MMHead/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Shanghai Jiao Tong University<br>
+• Dataset: MMHead, Samples: 35903, Modality: 3D facial motion (FLAME parameters) + speech audio + hierarchical text annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.07718"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://fudan-generative-vision.github.io/hallo2"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Fudan University<br>
+• Dataset: Wild, Samples: 2019, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.07659"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Northwestern University, Yellow.ai<br>
+• Dataset: WebVid-10M-recaptioned, Samples: 10000000, Modality: RGB videos + text captions<br>
+• Dataset: Curated YouTube-VOS for Sketch-guided Inpainting, Samples: None, Modality: RGB videos + binary masks + sketches + text captions<br>
+• Dataset: Curated DAVIS for Sketch-guided Inpainting, Samples: None, Modality: RGB videos + binary masks + sketches + text captions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>CoPESD: A Multi-Level Surgical Motion Dataset for Training Large Vision-Language Models to Co-Pilot Endoscopic Submucosal Dissection</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.07540"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/gkw0010/CoPESD"><img src="https://img.shields.io/github/stars/gkw0010/CoPESD.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong, China.<br>
+• Dataset: CoPESD, Samples: 88395, Modality: RGB images + bounding boxes + text-based motion instructions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Learning to Generate Diverse Pedestrian Movements from Web Videos with Noisy Labels</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.07500"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://genforce.github.io/PedGen/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Computer Science, University of California, Los Angeles<br>
+• Dataset: CityWalkers, Samples: 120914, Modality: RGB videos + SMPL parameters + depth maps + semantic segmentation maps<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.06963"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://movin3d.github.io/ELMO_SIGASIA2024/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: MOVIN Inc., South Korea<br>
+• Dataset: ELMO dataset, Samples: 20 subjects, Modality: LiDAR point clouds + Optical Motion Capture + Video<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.06437"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/kt2024-hal/LocoVR"><img src="https://img.shields.io/github/stars/kt2024-hal/LocoVR.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of California Santa Barbara, Toyota Motor North America<br>
+• Dataset: LocoVR, Samples: 7071, Modality: 3D motion capture trajectories (head, hands, waist, feet) in virtual reality<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.05984"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/kocurvik/rd"><img src="https://img.shields.io/github/stars/kocurvik/rd.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Visual Recognition Group, Faculty of Electrical Engineering, Czech Technical University in Prague<br>
+• Dataset: ROTUNDA and CATHEDRAL Benchmark, Samples: 2891, Modality: RGB images + camera poses<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>MTFL: Multi-Timescale Feature Learning for Weakly-Supervised Anomaly Detection in Surveillance Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.05900"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: VCA Group, Department of Electrical Engineering, Eindhoven University of Technology<br>
+• Dataset: Video Anomaly Detection Dataset (VADD), Samples: 2591, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.05791"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Stanford University, USA<br>
+• Dataset: FürElise, Samples: 153, Modality: 3D hand motions + audio + MIDI<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>A Unified Framework for Motion Reasoning and Generation in Human Interaction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.05628"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://vim-motion-language.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Korea University<br>
+• Dataset: Inter-MT2, Samples: 153000, Modality: MoCap joints (SMPL-X) + Text Instructions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.05152"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://uts-ri.github.io/lidar inertial motion correction/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Robotics Institute at the University of Technology Sydney, Australia<br>
+• Dataset: Techlab dataset, Samples: 2, Modality: LiDAR, IMU, MoCap<br>
+• Dataset: Newer College dataset (extended), Samples: 3, Modality: LiDAR, IMU, dynamicity labels<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Lost in Tracking: Uncertainty-guided Cardiac Cine MRI Segmentation at Right Ventricle Base</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.03320"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://gitlab.tudelft.nl/yidongzhao/rvot_seg"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Imaging Physics, Delft University of Technology, Lorentzweg 1, 2628 CJ Delft, The Netherlands<br>
+• Dataset: ACDC dataset with refined RV base annotation, Samples: 150, Modality: Cardiac cine MRI + segmentation masks<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Scaling Large Motion Models with Million-Level Human Motions</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.03311"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://beingbeyond.github.io/Being-M0/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Renmin University of China<br>
+• Dataset: MotionLib, Samples: 1210000, Modality: 3D human motion (SMPL parameters) from RGB videos with hierarchical text descriptions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Autonomous Character-Scene Interaction Synthesis from Text Instruction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.03187"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://lingomotions.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute for AI, Peking University, China and National Key Lab of General AI, BIGAI, China<br>
+• Dataset: LINGO, Samples: 16 hours of motion sequences, Modality: MoCap sequences (SMPL-X parameters)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>AirLetters: An Open Video Dataset of Characters Drawn in the Air</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.02921"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="developer.qualcomm.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Toronto<br>
+• Dataset: AirLetters, Samples: 161652, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.01517"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/WangHaoran16/UW-GS"><img src="https://img.shields.io/github/stars/WangHaoran16/UW-GS.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Computer Science, University of Bristol, Bristol, UK<br>
+• Dataset: S-UW, Samples: 4, Modality: RGB videos + dynamic object masks<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2024</td>
+  <td style="width:70%;"><strong>Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2410.01376"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Alejandro-neuro/Learning_physics_from_video"><img src="https://img.shields.io/github/stars/Alejandro-neuro/Learning_physics_from_video.svg?style=social&label=Star"></a><br><a href="nan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Delft University of Technology<br>
+• Dataset: Delfys75, Samples: 75, Modality: RGB videos + object masks<br>
+</td></tr>
 </table>
 
 ## 💪 How to Contribute
