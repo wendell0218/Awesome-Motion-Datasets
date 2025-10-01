@@ -9,6 +9,44 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Sep 2025</td>
+  <td style="width:70%;"><strong>Benchmarking Egocentric Visual-Inertial SLAM at City Scale</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2509.26639"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="lamaria.ethz.ch"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: ETH Zurich<br>
+• Dataset: LaMAria, Samples: 63, Modality: Egocentric visual-inertial data (multiple grayscale cameras, RGB camera, IMUs, magnetometer, barometer, GNSS, WiFi/Bluetooth) with centimeter-accurate pose annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Sep 2025</td>
+  <td style="width:70%;"><strong>AccidentBench: Benchmarking Multimodal Understanding and Reasoning in Vehicle Accidents and Beyond</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2509.26636"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/SafeRL-Lab/AccidentBench"><img src="https://img.shields.io/github/stars/SafeRL-Lab/AccidentBench.svg?style=social&label=Star"></a><br><a href="https://github.com/SafeRL-Lab/AccidentBench"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: UC Berkeley<br>
+• Dataset: AccidentBench, Samples: 2000, Modality: RGB videos + question-answer pairs<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Sep 2025</td>
+  <td style="width:70%;"><strong>OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2509.26633"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://omniretarget.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: MIT / Amazon FAR<br>
+• Dataset: OMNIRETARGET retargeted dataset, Samples: Over 8 hours of trajectories (from OMOMO, LAFAN1, and in-house MoCap), Modality: Retargeted robot kinematic trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Sep 2025</td>
+  <td style="width:70%;"><strong>A Multi-purpose Tracking Framework for Salmon Welfare Monitoring in Challenging Environments</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2509.25969"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/espenbh/BoostCompTrack"><img src="https://img.shields.io/github/stars/espenbh/BoostCompTrack.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Norwegian University of Science and Technology, Norway<br>
+• Dataset: CrowdedSalmon (CS), Samples: 1010 salmon boxes in 31 training images, 871 salmon boxes in 6 validation images, Modality: RGB videos with bounding box annotations for salmon and body parts<br>
+• Dataset: TurningSalmon (TS), Samples: 679 salmon boxes in 8 training images, 146 salmon in 100 validation frames, Modality: RGB videos with bounding box annotations for salmon and body parts<br>
+• Dataset: TailbeatWavelength (TBW), Samples: 1529 salmon boxes in 46 training images, 18 salmon in 1000 validation frames, Modality: RGB videos with bounding box annotations and tail beat extrema labels<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Sep 2025</td>
   <td style="width:70%;"><strong>PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2509.24997"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://yuyangyin.github.io/PanoWorld-X/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
