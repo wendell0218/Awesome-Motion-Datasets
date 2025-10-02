@@ -8,6 +8,24 @@
 <tr><td><strong>Date</strong></td><td><strong>Paper</strong></td><td><strong>Contribution</strong></td><td><strong>Links</strong></td></tr>
 
 <tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.00806"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Foundation Model Research Center, Institute of Automation, Chinese Academy of Sciences<br>
+• Dataset: Trajectory Dataset (proposed TrajVLM-Gen dataset), Samples: 1300000, Modality: image-video-trajectory pairs (RGB videos + bounding box trajectories)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>AI-Based Stroke Rehabilitation Domiciliary Assessment System with ST_GCN Attention</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.00049"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/LimSuH/NRC-rehab"><img src="https://img.shields.io/github/stars/LimSuH/NRC-rehab.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Gachon University<br>
+• Dataset: NRC, Samples: 1142, Modality: RGB-D videos with skeleton keypoints (25 joints)<br>
+</td></tr>
+
+<tr>
   <td rowspan="2" style="width:15%;">Sep 2025</td>
   <td style="width:70%;"><strong>Benchmarking Egocentric Visual-Inertial SLAM at City Scale</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
