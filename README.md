@@ -9,6 +9,42 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Pulp Motion: Framing-aware multimodal camera and human motion generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.05097"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: LIX, École Polytechnique, CNRS, IPP<br>
+• Dataset: PulpMotion, Samples: 193000, Modality: 3D human motion and camera trajectories with textual captions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>CARE-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson's Disease Gait Assessment</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.04312"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/TaatiTeam/CARE-PD/"><img src="https://img.shields.io/github/stars/CARE-PD/.svg?style=social&label=Star"></a><br><a href="https://neurips2025.care-pd.ca"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Toronto, Vector Institute, KITE Research Institute-UHN<br>
+• Dataset: CARE-PD, Samples: 8477, Modality: 3D SMPL mesh<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>DHQA-4D: Perceptual Quality Assessment of Dynamic 4D Digital Human</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.03874"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University, Shanghai, China<br>
+• Dataset: DHQA-4D, Samples: 1920, Modality: dynamic textured/non-textured 4D meshes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Creative synthesis of kinematic mechanisms</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.03308"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/CreativeMachinesLab/GenMech"><img src="https://img.shields.io/github/stars/CreativeMachinesLab/GenMech.svg?style=social&label=Star"></a><br><a href="https://jl6017.github.io/GenMech/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Columbia University<br>
+• Dataset: Planar Linkages Dataset, Samples: 850000, Modality: RGB images of planar mechanisms and corresponding motion curves<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.02722"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/JunyuShi02/MoGIC"><img src="https://img.shields.io/github/stars/JunyuShi02/MoGIC.svg?style=social&label=Star"></a><br></td></tr>
