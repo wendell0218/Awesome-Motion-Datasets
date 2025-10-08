@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Stable Robot Motions on Manifolds: Learning Lyapunov-Constrained Neural Manifold ODEs</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.05707"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://drive.google.com/file/d/1WZlMBKk4kJngwMAxgGIs09xvDWu2HSgU/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Computer and Information Sciences University of Konstanz<br>
+• Dataset: Improved Riemannian LASA Datasets, Samples: 120 sequences (4 demonstrations for each of 30 LASA shapes), Modality: Motion trajectories on Riemannian manifolds (S3 and S2++)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Pulp Motion: Framing-aware multimodal camera and human motion generation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.05097"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
@@ -23,6 +32,16 @@
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.04312"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/TaatiTeam/CARE-PD/"><img src="https://img.shields.io/github/stars/CARE-PD/.svg?style=social&label=Star"></a><br><a href="https://neurips2025.care-pd.ca"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
 <tr><td colspan="4">• Affiliation: University of Toronto, Vector Institute, KITE Research Institute-UHN<br>
 • Dataset: CARE-PD, Samples: 8477, Modality: 3D SMPL mesh<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Learning Efficient Meshflow and Optical Flow from Event Cameras</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.04111"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/boomluo02/EEMFlowPlus"><img src="https://img.shields.io/github/stars/boomluo02/EEMFlowPlus.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Electronic Science and Technology of China<br>
+• Dataset: HREM (High-Resolution Event Meshflow), Samples: 20,000 train samples, 8,000 test samples, Modality: Event streams + meshflow + optical flow<br>
+• Dataset: HREM+, Samples: 20,000 train samples, 8,000 test samples, Modality: Multi-density event streams + meshflow + optical flow<br>
 </td></tr>
 
 <tr>
