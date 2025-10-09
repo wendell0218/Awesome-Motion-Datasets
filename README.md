@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.07249"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://talkcuts.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: UMass Amherst<br>
+• Dataset: TalkCuts, Samples: 164000, Modality: RGB videos + 2D pose keypoints + 3D SMPL-X motion<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Stable Robot Motions on Manifolds: Learning Lyapunov-Constrained Neural Manifold ODEs</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.05707"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://drive.google.com/file/d/1WZlMBKk4kJngwMAxgGIs09xvDWu2HSgU/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
