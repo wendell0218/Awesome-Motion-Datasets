@@ -2171,6 +2171,15 @@ Mohamed bin Zayed University of Artificial Intelligence<br>
 
 <tr>
   <td rowspan="2" style="width:15%;">Jun 2025</td>
+  <td style="width:70%;"><strong>FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2506.01941"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://opendrivelab.com/FreeTacMan"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Shanghai Innovation Institute<br>
+• Dataset: FreeTacMan Dataset, Samples: 10k demonstration trajectories, Modality: visuo-tactile images + end-effector poses<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jun 2025</td>
   <td style="width:70%;"><strong>MotionSight: Boosting Fine-Grained Motion Understanding in Multimodal LLMs</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2506.01674"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://nju-pcalab.github.io/projects/MotionSight"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
