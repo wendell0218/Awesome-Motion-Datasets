@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.08880"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="not provided"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University<br>
+• Dataset: not specified, Samples: not specified, Modality: IMU + 2D odometer + raw GNSS (rover and base stations)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.08807"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://humanoideveryday.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Southern California<br>
+• Dataset: Humanoid Everyday, Samples: 10300, Modality: RGB + depth + LiDAR + tactile + joint poses + joint actions + human poses<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.07249"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://talkcuts.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
