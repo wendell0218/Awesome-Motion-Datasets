@@ -9,6 +9,60 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>LiFMCR: Dataset and Benchmark for Light Field Multi-Camera Registration</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.13729"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://lifmcr.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Technical University of Munich, Munich, Germany<br>
+• Dataset: LiFMCR, Samples: 7, Modality: synchronized light field image sequences + 6-DoF pose trajectories (Vicon motion capture)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>CAMNet: Leveraging Cooperative Awareness Messages for Vehicle Trajectory Prediction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.12703"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia<br>
+• Dataset: CAM-based Dataset, Samples: 16051, Modality: Cooperative Awareness Messages (CAMs) including position, speed, and heading<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.12565"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Annzstbl/MMOT"><img src="https://img.shields.io/github/stars/Annzstbl/MMOT.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Beijing Institute of Technology<br>
+• Dataset: MMOT, Samples: 125, Modality: multispectral video sequences (8-band, visible to near-infrared) with oriented bounding box annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Video-STR: Reinforcing MLLMs in Video Spatio-Temporal Reasoning with Relation Graph</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.10976"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: ByteDance<br>
+• Dataset: STV-205k, Samples: 205000, Modality: RGB videos + object bounding boxes + spatio-temporal annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.09996"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/qulishen/BurstDeflicker"><img src="https://img.shields.io/github/stars/qulishen/BurstDeflicker.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Nankai International Advanced Research Institute (SHENZHEN·FUTIAN)<br>
+• Dataset: BurstDeflicker, Samples: 3690, Modality: RGB videos with flicker artifacts and motion<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Advancing Intoxication Detection: A Smartwatch-Based Approach</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.09916"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of California Irvine<br>
+• Dataset: Smartwatch-Based Intoxication Detection Dataset, Samples: 30, Modality: accelerometer, gyroscope, heart rate, TAC<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.08880"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="not provided"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
