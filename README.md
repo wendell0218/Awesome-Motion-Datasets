@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>RealDPO: Real or Not Real, that is the Preference</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.14955"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://Vchitect.github.io/RealDPO-Project"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Electronic Science and Technology of China<br>
+• Dataset: RealAction-5K, Samples: 5000, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>LiFMCR: Dataset and Benchmark for Light Field Multi-Camera Registration</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.13729"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://lifmcr.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
