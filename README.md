@@ -9,6 +9,69 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.17101"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/yinlu5942/SAIP"><img src="https://img.shields.io/github/stars/yinlu5942/SAIP.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Xiamen University, China<br>
+• Dataset: Multi-shape Inertial MoCap Dataset (MID), Samples: 1500000.0, Modality: IMU data (acceleration, angular velocity, orientation) and motion data (SMPL joint rotations and global root position)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>From Mannequin to Human: A Pose-Aware and Identity-Preserving Video Generation Framework for Lifelike Clothing Display</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.16833"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://huggingface.co/datasets/MML-Group/M2HVideo-data"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Harbin Institute of Technology, Shenzhen, Xili University Town, Shenzhen 518055, China<br>
+• Dataset: MannequinVideos, Samples: 24, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.16258"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://www.meta.com/emerging-tech/codec-avatars/embody-3d"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Codec Avatars Lab, Meta<br>
+• Dataset: Embody 3D, Samples: 54000000, Modality: 3D motion (full body and hand tracking, body shape in SMPL-X), audio, text annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.15786"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/dexrobot/dexcanvas"><img src="https://img.shields.io/github/stars/dexrobot/dexcanvas.svg?style=social&label=Star"></a><br><a href="https://huggingface.co/datasets/DEXROBOT/DexCanvas"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: DexRobot Co. Ltd.<br>
+• Dataset: DexCanvas, Samples: 3000000000, Modality: MoCap joints, RGB-D videos, force vectors, contact points, object poses<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Valeo Near-Field: a novel dataset for pedestrian intent detection</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.15673"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Valeo, BRAIN Division, 6 rue Daniel Costantini 94000 Créteil - France<br>
+• Dataset: Valeo Near-Field (VNF), Samples: 300, Modality: fisheye camera feeds, LiDAR laser scans, ultrasonic sensor readings, motion capture-based 3D body poses<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Iterative Motion Compensation for Canonical 3D Reconstruction from UAV Plant Images Captured in Windy Conditions</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.15491"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Autonomous Intelligent Systems - Computer Science Institute VI and Center for Robotics, University of Bonn, Germany<br>
+• Dataset: UAV Plant Imaging Dataset, Samples: 8544, Modality: RGB videos + optical flow + camera poses + ArUco markers<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>MAVR-Net: Robust Multi-View Learning for MAV Action Recognition with Cross-View Attention</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.15448"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/iAerialRobo/MAVR-Net.git"><img src="https://img.shields.io/github/stars/iAerialRobo/MAVR-Net.git.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Aerospace Engineering, Universiti Sains Malaysia, 14300 Nibong Tebal, Pulau Pinang, Malaysia.<br>
+• Dataset: MAVR-Net Dataset, Samples: 4500, Modality: RGB videos + optical flow + segmentation masks<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>RealDPO: Real or Not Real, that is the Preference</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.14955"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://Vchitect.github.io/RealDPO-Project"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
@@ -3733,6 +3796,15 @@ Worcester Polytechnic Institute<br>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2503.12732"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Zibin6/SE6PT"><img src="https://img.shields.io/github/stars/Zibin6/SE6PT.svg?style=social&label=Star"></a><br></td></tr>
 <tr><td colspan="4">• Affiliation: College of Aerospace Science and Engineering, National University of Defense Technology<br>
 • Dataset: Stereo Event-based Uncooperative Spacecraft Motion Dataset, Samples: 17, Modality: Stereo event streams + 6-DOF pose trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2025</td>
+  <td style="width:70%;"><strong>A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2503.12527"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: College of Intelligence Science and Technology, National University of Defense Technology, China.<br>
+• Dataset: In-house dataset, Samples: 17, Modality: RGB-D videos + IMU data + pose ground truth<br>
 </td></tr>
 
 <tr>
