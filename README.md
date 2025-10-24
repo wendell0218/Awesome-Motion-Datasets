@@ -9,6 +9,33 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Physics-Guided Fusion for Robust 3D Tracking of Fast Moving Small Objects</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.20126"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: UL Lafayette<br>
+• Dataset: Racquetball RGB-D dataset, Samples: 12, Modality: RGB videos + depth maps<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Is This Tracker On? A Benchmark Protocol for Dynamic Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.19819"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/ilonadem/itto"><img src="https://img.shields.io/github/stars/ilonadem/itto.svg?style=social&label=Star"></a><br><a href="https://glab-caltech.github.io/ITTO/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: California Institute of Technology<br>
+• Dataset: ITTO, Samples: 72, Modality: RGB videos + point tracks<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.19789"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/GuoweiXu368/OmniMocap-X"><img src="https://img.shields.io/github/stars/GuoweiXu368/OmniMocap-X.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Electronic Science and Technology of China<br>
+• Dataset: OmniMoCap-X, Samples: 64300000, Modality: MoCap joints (SMPL-X format)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.17101"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/yinlu5942/SAIP"><img src="https://img.shields.io/github/stars/yinlu5942/SAIP.svg?style=social&label=Star"></a><br></td></tr>
