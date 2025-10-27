@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.21654"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="github.com/eth-siplab/GroupInertialPoser"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Computer Science, ETH Zürich, Switzerland<br>
+• Dataset: GIP-DB, Samples: 200, Modality: IMU signals, UWB-based distance measurements, SMPL body motion parameters<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.21571"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://microsoft.github.io/VITRA/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tsinghua University<br>
+• Dataset: hand-VLA, Samples: 1000000, Modality: egocentric RGB videos + 3D hand motion + camera motion + language instructions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Physics-Guided Fusion for Robust 3D Tracking of Fast Moving Small Objects</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.20126"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
