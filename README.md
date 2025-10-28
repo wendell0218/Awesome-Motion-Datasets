@@ -9,6 +9,51 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Awakening Facial Emotional Expressions in Human-Robot</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.23059"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Machine Intelligence, University of Shanghai for Science and Technology, Shanghai 200093, China<br>
+• Dataset: Rena Facial Database, Samples: 9000, Modality: RGB videos / images + servomotor commands<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.22213"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/dynamictree-dev/DynamicTree.github.io"><img src="https://img.shields.io/github/stars/dynamictree-dev/DynamicTree.github.io.svg?style=social&label=Star"></a><br><a href="https://dynamictree-dev.github.io/DynamicTree.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Sun Yat-sen University<br>
+• Dataset: 4DTree, Samples: 8786, Modality: animated mesh sequences with semantic labels and 100-frame motion<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>MOGRAS: Human Motion with Grasping in 3D Scenes</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.22199"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://kunal-kamalkishor-bhosikar.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Machine Learning Lab, International Institute of Information Technology, Hyderabad, India<br>
+• Dataset: MOGRAS, Samples: 14238, Modality: full-body motion sequences (SMPL-X poses) in 3D scenes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.21867"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: State Key Laboratory of Internet of Things for Smart City, University of Macau, Macau SAR, China<br>
+• Dataset: nuScenes-corner, Samples: 3392, Modality: vehicle trajectories, HD maps, BEV features, contextual traffic scenes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Gestura: A LVLM-Powered System Bridging Motion and Semantics for Real-Time Free-Form Gesture Understanding</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.21814"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://evans-lx.github.io/Gestura/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Artificial Intelligence (TeleAI) of China Telecom, China<br>
+• Dataset: GestureInt, Samples: 159561, Modality: RGB videos (egocentric and exocentric) with hand landmarks (MediaPipe)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.21654"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="github.com/eth-siplab/GroupInertialPoser"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
