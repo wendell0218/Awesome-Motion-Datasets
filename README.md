@@ -9,6 +9,33 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Benchmarking Microsaccade Recognition with Event Cameras: A Novel Dataset and Evaluation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.24231"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://waseemshariff126.github.io/microsaccades/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: C3I Imaging Lab, School of Engineering, University of Galway, Ireland<br>
+• Dataset: Synthetic Microsaccade Dataset, Samples: 175000, Modality: Event-based eye movement sequences (simulated from Blender RGB + v2e event conversion)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>DogMo: A Large-Scale Multi-View RGB-D Dataset for 4D Canine Motion Recovery</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.24117"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://pie-lab.cn/DogMo/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Computer Science & Technology, Beijing Institute of Technology<br>
+• Dataset: DogMo, Samples: 1200, Modality: multi-view RGB-D videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>How Pragmatics Shape Articulation: A Computational Case Study in STEM ASL Discourse</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.23842"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Northeastern University<br>
+• Dataset: ASL STEM Dialogue Motion Capture Dataset, Samples: 2, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Awakening Facial Emotional Expressions in Human-Robot</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.23059"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
