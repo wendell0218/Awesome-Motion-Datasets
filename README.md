@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.25713"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: nan<br>
+• Dataset: Collaborative Robot Manipulation Dataset, Samples: 340, Modality: RGB videos, robot kinematics, human hand pose (MoCap), text prompts<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>Towards Fine-Grained Human Motion Video Captioning</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.24767"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tsinghua University, Shenzhen, China<br>
+• Dataset: Human Motion Insight (HMI) Dataset, Samples: 115000, Modality: RGB videos + human mesh recovery (SMPL-based) + ViTPose keypoints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Benchmarking Microsaccade Recognition with Event Cameras: A Novel Dataset and Evaluation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.24231"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://waseemshariff126.github.io/microsaccades/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
