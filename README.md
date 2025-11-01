@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>The Quest for Generalizable Motion Generation: Data, Model, and Evaluation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.26794"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Nanyang Technological University<br>
+• Dataset: ViMoGen-228K, Samples: 228236, Modality: 3D human motion sequences (SMPL-X) with text annotations, derived from optical MoCap, in-the-wild RGB videos, and synthetic videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>PHUMA: Physically-Grounded Humanoid Locomotion Dataset</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.26236"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://davian-robotics.github.io/PHUMA"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: KAIST<br>
+• Dataset: PHUMA, Samples: 76010, Modality: MoCap joints and video-derived motion (SMPL-X)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.25713"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
