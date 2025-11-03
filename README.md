@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
+  <td style="width:70%;"><strong>DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.27169"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Stony Brook University, New York, USA<br>
+• Dataset: TikTok-3K, Samples: 3000, Modality: RGB videos + pose sequences (segmentation maps, depth maps, normal maps, skeleton maps)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>The Quest for Generalizable Motion Generation: Data, Model, and Evaluation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2510.26794"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
