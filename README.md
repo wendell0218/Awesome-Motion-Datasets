@@ -8,6 +8,44 @@
 <tr><td><strong>Date</strong></td><td><strong>Paper</strong></td><td><strong>Contribution</strong></td><td><strong>Links</strong></td></tr>
 
 <tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>Discriminately Treating Motion Components Evolves Joint Depth and Ego-Motion Learning</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.01502"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="mias.group/DiMoDE"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University, Shanghai 201210, China<br>
+• Dataset: MIAS-Odom, Samples: 11608, Modality: RGB videos + LiDAR + IMU + camera trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>Web-Scale Collection of Video Data for 4D Animal Reconstruction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.01169"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/briannlongzhao/Animal-in-Motion"><img src="https://img.shields.io/github/stars/briannlongzhao/Animal-in-Motion.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Stanford University<br>
+• Dataset: Animal-in-Motion (AiM), Samples: 230, Modality: RGB videos + instance masks + keypoints + optical flow + depth maps + occlusion boundaries + DINO features<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.00510"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/xifen523/OmniTrack"><img src="https://img.shields.io/github/stars/xifen523/OmniTrack.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Artificial Intelligence and Robotics, Hunan University, Changsha 410012, China<br>
+• Dataset: EmboTrack, Samples: 44, Modality: panoramic RGB videos with object trajectories<br>
+• Dataset: QuadTrack, Samples: 32, Modality: panoramic RGB videos with object trajectories from quadruped robot<br>
+• Dataset: BipTrack, Samples: 12, Modality: panoramic RGB videos with object trajectories from bipedal wheel-legged robot<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.00503"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://paulpanwang.github.io/Diff4Splat"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Peking University<br>
+• Dataset: Stereo4D, Samples: 74000, Modality: RGB videos + metric depth + point motion trajectories<br>
+</td></tr>
+
+<tr>
   <td rowspan="2" style="width:15%;">Oct 2025</td>
   <td style="width:70%;"><strong>DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
