@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.02832"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/YanjieZe/TWIST2"><img src="https://img.shields.io/github/stars/YanjieZe/TWIST2.svg?style=social&label=Star"></a><br><a href="https://twist-data.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Amazon FAR<br>
+• Dataset: TWIST2 Dataset, Samples: None, Modality: whole-body humanoid teleoperation trajectories, egocentric stereo vision, proprioception<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
   <td style="width:70%;"><strong>Discriminately Treating Motion Components Evolves Joint Depth and Ego-Motion Learning</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.01502"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="mias.group/DiMoDE"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
