@@ -9,11 +9,48 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.03571"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/MasterHow/OneOcc"><img src="https://img.shields.io/github/stars/MasterHow/OneOcc.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: ZJU<br>
+• Dataset: QuadOcc, Samples: 24000, Modality: panoramic RGB, semantic occupancy (from LiDAR aggregation), pose<br>
+• Dataset: Human360Occ (H3O), Samples: 8000, Modality: simulated panoramic RGB, metric depth, semantic occupancy, pose<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>SurgViVQA: Temporally-Grounded Video Question Answering for Surgical Scene Understanding</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.03325"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/madratak/SurgViVQA"><img src="https://img.shields.io/github/stars/madratak/SurgViVQA.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB), Politecnico di Milano, Italy.<br>
+• Dataset: REAL-Colon-VQA, Samples: 5200, Modality: colonoscopic RGB videos + temporal motion cues (e.g., scope movement, lesion motion, tool-tissue interactions)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>EvtSlowTV -- A Large and Diverse Dataset for Event-Based Depth Estimation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.02953"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Surrey<br>
+• Dataset: EvtSlowTV, Samples: 40, Modality: event camera streams (synthetic from RGB videos)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
   <td style="width:70%;"><strong>TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.02832"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/YanjieZe/TWIST2"><img src="https://img.shields.io/github/stars/YanjieZe/TWIST2.svg?style=social&label=Star"></a><br><a href="https://twist-data.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
 <tr><td colspan="4">• Affiliation: Amazon FAR<br>
 • Dataset: TWIST2 Dataset, Samples: None, Modality: whole-body humanoid teleoperation trajectories, egocentric stereo vision, proprioception<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Nov 2025</td>
+  <td style="width:70%;"><strong>Estimation of Segmental Longitudinal Strain in Transesophageal Echocardiography by Deep Learning</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2511.02210"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://kiss.folk.ntnu.no/jbhi/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Computer Science, Faculty of Information Technology and Electrical Engineering, Norwegian University of Science and Technology, 7034 Trondheim, Norway<br>
+• Dataset: synTEE, Samples: 240, Modality: synthetic TEE B-mode videos + ground truth myocardial motion<br>
 </td></tr>
 
 <tr>
