@@ -3354,6 +3354,15 @@ Worcester Polytechnic Institute<br>
 
 <tr>
   <td rowspan="2" style="width:15%;">Apr 2025</td>
+  <td style="width:70%;"><strong>SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2504.13713"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://samuel-cerezo.github.io/SLAM&Render"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Departamento de Informática e Ingeniería de Sistemas, Universidad de Zaragoza, 50018 Zaragoza, Spain<br>
+• Dataset: SLAM&Render, Samples: 40, Modality: RGB-D images, IMU readings, robot kinematic data, ground-truth pose streams<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2025</td>
   <td style="width:70%;"><strong>How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2504.12284"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://bit.ly/LatentAct"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
