@@ -255,6 +255,42 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.10321"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Seoul National University<br>
+• Dataset: MVPose3D, Samples: 215,039 frames, Modality: dense multi-view point clouds, synchronized IMUs, multi-view RGB images, 3D joint coordinates, and joint rotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Visual Heading Prediction for Autonomous Aerial Vehicles</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.09898"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Kooroshraf/UAV-UGV-Integration"><img src="https://img.shields.io/github/stars/Kooroshraf/UAV-UGV-Integration.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: North Carolina A&T State University<br>
+• Dataset: UAV-UGV coordination dataset, Samples: over 13,000 annotated images, Modality: monocular camera images synchronized with VICON 6DOF motion capture data<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Beyond Sequences: A Benchmark for Atomic Hand-Object Interaction Using a Static RNN Encoder</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.09626"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/YousefAMovahed/beyond-sequences-hoi-benchmark"><img src="https://img.shields.io/github/stars/YousefAMovahed/beyond-sequences-hoi-benchmark.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Tehran<br>
+• Dataset: Atomic HOI Benchmark, Samples: 27,476, Modality: statistical-kinematic feature vectors<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>DirectSwap: Mask-Free Cross-Identity Training and Benchmarking for Expression-Consistent Video Head Swapping</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.09417"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: MBZUAI<br>
+• Dataset: HeadSwapBench, Samples: 8,566 videos (8,066 training and 500 test videos), Modality: RGB videos with synchronized facial poses and expressions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
   <td style="width:70%;"><strong>Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.09335"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
@@ -305,6 +341,98 @@
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.05277"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
 <tr><td colspan="4">• Affiliation: Huawei Technologies Canada Co., Ltd.<br>
 • Dataset: Temporal Understanding in Autonomous Driving (TAD), Samples: 4,481 segment-level vehicle action annotations, Modality: RGB videos + vehicle trajectories + vehicle action labels<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>From Generated Human Videos to Physically Plausible Robot Trajectories</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.05094"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/genmimic/genmimic"><img src="https://img.shields.io/github/stars/genmimic/genmimic.svg?style=social&label=Star"></a><br><a href="https://genmimic.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of California, Berkeley<br>
+• Dataset: GenMimicBench, Samples: 428, Modality: Generated human-action RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>BulletTime: Decoupled Control of Time and Camera Pose for Video Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.05076"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/19reborn/Bullet4D"><img src="https://img.shields.io/github/stars/19reborn/Bullet4D.svg?style=social&label=Star"></a><br><a href="https://19reborn.github.io/Bullet4D/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: ETH Zurich<br>
+• Dataset: 4D-controlled synthetic dataset, Samples: 20,000 videos, Modality: RGB videos with camera trajectories, world-time labels, and MoCap-driven character motion<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.05044"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Zhangyr2022/MoRe4D"><img src="https://img.shields.io/github/stars/Zhangyr2022/MoRe4D.svg?style=social&label=Star"></a><br><a href="https://ivg-yanranzhang.github.io/MoRe4D/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tsinghua University<br>
+• Dataset: TrajScene-60K, Samples: 60,000, Modality: 4D point trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.04862"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://biotuch.is.tue.mpg.de"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Max Planck Institute for Intelligent Systems<br>
+• Dataset: BioTUCH dataset, Samples: 91 sequences (82 contact gestures, 9 adversarial non-contact gestures), 19,183 contact frames, Modality: Synchronized RGB video, bioimpedance measurements, and 3D motion-capture (SMPL-X meshes)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.04813"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/lucywang720/MOVE"><img src="https://img.shields.io/github/stars/lucywang720/MOVE.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tsinghua University<br>
+• Dataset: MOVE, Samples: 75,000 timesteps, Modality: RGB videos + robot actions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.04537"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://showlab.github.io/X-Humanoid/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: National University of Singapore<br>
+• Dataset: Synthetic Paired Human-Humanoid Video Dataset, Samples: 11,172 pairs (17+ hours), Modality: RGB videos<br>
+• Dataset: Robotized Ego-Exo4D, Samples: 3.6 million frames (60+ hours), Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Look Around and Pay Attention: Multi-camera Point Tracking Reimagined with Transformers</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.04213"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/ostadabbas/Look-Around-and-Pay-Attention-LAPA-"><img src="https://img.shields.io/github/stars/ostadabbas/Look-Around-and-Pay-Attention-LAPA-.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Northeastern University<br>
+• Dataset: TAPVid-3D-MC, Samples: None, Modality: Multi-view RGB videos + 3D point trajectories + Camera calibration<br>
+• Dataset: PointOdyssey-MC, Samples: None, Modality: Multi-view RGB videos + 3D point trajectories + Camera calibration<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>PerFACT: Motion Policy with LLM-Powered Dataset Synthesis and Fusion Action-Chunking Transformers</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.03444"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Texas A&M University<br>
+• Dataset: PerFACT planning dataset, Samples: 3,500,000 trajectories, Modality: robot joint trajectories, point clouds<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.03000"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://dynamic-verse.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Xiamen University<br>
+• Dataset: DynamicVerse, Samples: 100,000+ videos, Modality: RGB videos, metric-scale point maps, camera parameters, object masks, and hierarchical captions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>Taming Camera-Controlled Video Generation with Verifiable Geometry Reward</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.02870"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: AIsphere<br>
+• Dataset: CAMVERSE dataset, Samples: 315,000, Modality: RGB videos + camera trajectories (3D camera poses)<br>
 </td></tr>
 
 <tr>
