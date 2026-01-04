@@ -264,6 +264,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Dec 2025</td>
+  <td style="width:70%;"><strong>MotionEdit: Benchmarking and Learning Motion-Centric Image Editing</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.10284"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://motion-edit.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tencent AI, Seattle<br>
+• Dataset: MotionEdit, Samples: 10,157, Modality: RGB image pairs (input, edit instruction, ground truth target) extracted from video frames<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Dec 2025</td>
   <td style="width:70%;"><strong>Visual Heading Prediction for Autonomous Aerial Vehicles</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2512.09898"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Kooroshraf/UAV-UGV-Integration"><img src="https://img.shields.io/github/stars/Kooroshraf/UAV-UGV-Integration.svg?style=social&label=Star"></a><br></td></tr>
