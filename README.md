@@ -8,6 +8,16 @@
 <tr><td><strong>Date</strong></td><td><strong>Paper</strong></td><td><strong>Contribution</strong></td><td><strong>Links</strong></td></tr>
 
 <tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.00590"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/AIGeeksGroup/SafeMo"><img src="https://img.shields.io/github/stars/AIGeeksGroup/SafeMo.svg?style=social&label=Star"></a><br><a href="https://aigeeksgroup.github.io/SafeMo"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The Australian National University<br>
+• Dataset: SafeMoVQ-29K, Samples: 17,200 motion clips, Modality: 3D human motion (joints)<br>
+• Dataset: SafeMoVAE-29K, Samples: 17,200 motion clips, Modality: 3D human motion (joints)<br>
+</td></tr>
+
+<tr>
   <td rowspan="2" style="width:15%;">Dec 2025</td>
   <td style="width:70%;"><strong>SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
