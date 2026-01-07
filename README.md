@@ -9,6 +9,42 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>360DVO: Deep Visual Odometry for Monocular 360-Degree Camera</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.02309"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://chris1004336379.github.io/360DVO-homepage"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Division of Integrative Systems and Design, Hong Kong University of Science and Technology<br>
+• Dataset: 360DVO dataset, Samples: 20 sequences, Modality: 360-degree RGB videos and camera trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.01749"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/mango-project/mango-project.github.io"><img src="https://img.shields.io/github/stars/mango-project/mango-project.github.io.svg?style=social&label=Star"></a><br><a href="https://mango-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: International Digital Economy Academy<br>
+• Dataset: MANGO-Dialog, Samples: 5,000+ dialogue clips (over 50 hours), Modality: 2D-3D aligned conversational data (RGB videos and 3D FLAME motion parameters)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.01528"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://drivinggen-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Toronto<br>
+• Dataset: DrivingGen, Samples: 400, Modality: RGB videos, scene descriptions, and ego trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Garment Inertial Denoiser (GID): Endowing Accurate Motion Capture via Loose IMU Denoiser</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.01360"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Xiamen University<br>
+• Dataset: GarMoCap, Samples: 180 minutes (comprising 20 users for Dupper_GID and 8 users for Dfull_GID), Modality: Loose-wear IMU signals (acceleration and rotation) and MoCap joints (SMPL)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.00590"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/AIGeeksGroup/SafeMo"><img src="https://img.shields.io/github/stars/AIGeeksGroup/SafeMo.svg?style=social&label=Star"></a><br><a href="https://aigeeksgroup.github.io/SafeMo"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
