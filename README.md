@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>M-SEVIQ: A Multi-band Stereo Event Visual-Inertial Quadruped-based Dataset for Perception under Rapid Motion and Challenging Illumination</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.02777"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://anonymous.4open.science/r/202510upinlbs-M-SEVIQ-8FA7"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Shanghai Key Laboratory of Navigation & Location Based Services, Shanghai Jiao Tong University<br>
+• Dataset: M-SEVIQ, Samples: 30+ sequences, Modality: stereo event streams, RGB-D images, IMU data, RTK-GPS, and robot joint encoders (kinematics)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>360DVO: Deep Visual Odometry for Monocular 360-Degree Camera</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.02309"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://chris1004336379.github.io/360DVO-homepage"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
