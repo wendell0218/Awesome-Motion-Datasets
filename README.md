@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.03713"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China<br>
+• Dataset: BREATH, Samples: 148,738 frames (across 62/66 videos/sequences), Modality: 6-DoF endoscope pose trajectories, RGB video frames, depth, anatomical labels, and 3D airway models<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Listen to Rhythm, Choose Movements: Autoregressive Multimodal Dance Generation via Diffusion and Mamba with Decoupled Dance Dataset</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.03323"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Communication University of China<br>
+• Dataset: Decoupled Dance Dataset, Samples: 87 sequences, Modality: MoCap joints, audio, text<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>M-SEVIQ: A Multi-band Stereo Event Visual-Inertial Quadruped-based Dataset for Perception under Rapid Motion and Challenging Illumination</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.02777"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://anonymous.4open.science/r/202510upinlbs-M-SEVIQ-8FA7"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
