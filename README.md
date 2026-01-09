@@ -9,6 +9,33 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.05237"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://objectforesight.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Washington<br>
+• Dataset: ObjectForesight Dataset, Samples: 2,073,109, Modality: 6-DoF object trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.05138"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://sixiaozheng.github.io/VerseCrafter_page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Fudan University<br>
+• Dataset: VerseControl4D, Samples: 36,000 clips, Modality: videos, camera trajectories, 3D Gaussian trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Detector-Augmented SAMURAI for Long-Duration Drone Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.04798"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://doi.org/10.5281/zenodo.17182190"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute for the Protection of Terrestrial Infrastructures, German Aerospace Center (DLR), Sankt Augustin, Germany<br>
+• Dataset: Long-Duration Drone Tracking Dataset, Samples: 4 long-duration sequences (18,932 frames), Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.03713"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
