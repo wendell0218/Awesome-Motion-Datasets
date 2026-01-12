@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.05844"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://pku-mocca.github.io/Dextercap-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Peking University<br>
+• Dataset: DexterHand, Samples: 8 sequences (totaling 4936.65 seconds), Modality: 3D hand and object motion<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.05237"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://objectforesight.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
