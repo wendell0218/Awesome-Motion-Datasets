@@ -9,6 +9,51 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Motion Focus Recognition in Fast-Moving Egocentric Video</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.07154"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/arazi2/aisends"><img src="https://img.shields.io/github/stars/arazi2/aisends.svg?style=social&label=Star"></a><br><a href="https://arazi2.github.io/aisends"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Clemson University<br>
+• Dataset: egocentric action dataset, Samples: 206 clips, Modality: egocentric RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>eSkiTB: A Synthetic Event-based Dataset for Tracking Skiers</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.06647"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/eventbasedvision/eSkiTB"><img src="https://img.shields.io/github/stars/eventbasedvision/eSkiTB.svg?style=social&label=Star"></a><br><a href="https://github.com/eventbasedvision/eSkiTB"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Arizona State University<br>
+• Dataset: eSkiTB (event SkiTB), Samples: 300 sequences, Modality: synthetic event streams<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>UMLoc: Uncertainty-Aware Map-Constrained Inertial Localization with Quantified Bounds</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.06602"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/m9alharbi/umloc.git"><img src="https://img.shields.io/github/stars/m9alharbi/umloc.git.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: King Abdullah University of Science and Technology (KAUST)<br>
+• Dataset: UMLoc dataset, Samples: 60 sequences (7,488 seconds of travel time), Modality: 6-DoF IMU, ground-truth poses, floor-plan maps<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>SRFlow: A Dataset and Regularization Model for High-Resolution Facial Optical Flow via Splatting Rasterization</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.06479"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Guangdong University of Technology<br>
+• Dataset: Splatting Rasterization Flow (SRFlow), Samples: 11161 image pairs, Modality: RGB videos + optical flow<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Low-Back Pain Physical Rehabilitation by Movement Analysis in Clinical Trial</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.06138"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: U2IS, ENSTA / IP Paris, France<br>
+• Dataset: Keraal dataset, Samples: 2622, Modality: RGB videos, depth maps, 3D skeletal joint positions (Kinect V2), 2D keypoints (OpenPose, BlazePose), Vicon motion capture<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.05844"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://pku-mocca.github.io/Dextercap-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
