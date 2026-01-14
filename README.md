@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Instance-Aligned Captions for Explainable Video Anomaly Detection</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.08155"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: SungKyunKwan University<br>
+• Dataset: VIEW360+, Samples: 1443 videos (868 new videos added), Modality: 360-degree egocentric RGB video with instance segmentation masks and motion attributes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>Motion Focus Recognition in Fast-Moving Egocentric Video</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.07154"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/arazi2/aisends"><img src="https://img.shields.io/github/stars/arazi2/aisends.svg?style=social&label=Star"></a><br><a href="https://arazi2.github.io/aisends"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
