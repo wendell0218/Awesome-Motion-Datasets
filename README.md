@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.09240"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China<br>
+• Dataset: SDM-Car-SU, Samples: 807 video clips (U1: 292, U2: 283, U3: 232), Modality: Satellite video (RGB frames) with vehicle trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>Instance-Aligned Captions for Explainable Video Anomaly Detection</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.08155"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
