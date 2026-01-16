@@ -9,6 +9,43 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.10716"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://wild-rayzer.cs.virginia.edu/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Virginia<br>
+• Dataset: Dynamic RealEstate10K (D-RE10K), Samples: 15,000 sequences, Modality: RGB dynamic videos with motion masks<br>
+• Dataset: D-RE10K-iPhone, Samples: 50 sequences, Modality: paired transient and clean RGB images<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.10632"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: HKUST<br>
+• Dataset: CoMoVi Dataset, Samples: 54,053 clips, Modality: 3D SMPL motions, high-resolution RGB videos, and text annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.10606"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="not stated"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Software, Chinese Academy of Sciences<br>
+• Dataset: RSATalker dataset, Samples: not stated, Modality: speech–mesh–image triplets<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>UEOF: A Benchmark Dataset for Underwater Event-Based Optical Flow</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.10054"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/robotic-vision-lab/ueof"><img src="https://img.shields.io/github/stars/robotic-vision-lab/ueof.svg?style=social&label=Star"></a><br><a href="https://robotic-vision-lab.github.io/ueof"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The University of Texas at Arlington<br>
+• Dataset: UEOF (Underwater Event-Based Optical Flow), Samples: 13,714 RGB frames (evaluation intervals), 4.94 billion events, 12 minutes 51 seconds duration, Modality: RGB frames, event streams, dense ground-truth optical flow, camera ego-velocities (6-DoF linear and angular)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.09240"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
