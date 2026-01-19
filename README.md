@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.11394"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/wheelbot/dataset"><img src="https://img.shields.io/github/stars/wheelbot/dataset.svg?style=social&label=Star"></a><br><a href="https://github.com/wheelbot/dataset"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute for Data Science in Mechanical Engineering (DSME), RWTH Aachen University, Germany<br>
+• Dataset: Mini Wheelbot Dataset, Samples: 383 trajectories, Modality: MoCap (Vicon position and orientation), IMU (gyroscope and accelerometer), wheel encoders (angle and velocity), third-person RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>FrankenMotion: Part-level Human Motion Generation and Composition</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.10909"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/coral79/frankenmotion"><img src="https://img.shields.io/github/stars/coral79/frankenmotion.svg?style=social&label=Star"></a><br><a href="https://coral79.github.io/frankenmotion/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tübingen AI Center, University of Tübingen, Germany<br>
+• Dataset: FrankenStein, Samples: 16,000, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.10716"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://wild-rayzer.cs.virginia.edu/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
