@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Video Individual Counting and Tracking from Moving Drones: A Benchmark and Methods</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.12500"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Sun Yat-sen University<br>
+• Dataset: MovingDroneCrowd++, Samples: 27,866 pedestrian trajectories, Modality: RGB videos + pedestrian trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>Where It Moves, It Matters: Referring Surgical Instrument Segmentation via Motion</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.12224"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/EricGuo5513/HumanML3D"><img src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D.svg?style=social&label=Star"></a><br><a href="None stated"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Peking University<br>
+• Dataset: HumanML3D, Samples: 14,616 motion sequences, Modality: 3D MoCap joints + textual descriptions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.11394"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/wheelbot/dataset"><img src="https://img.shields.io/github/stars/wheelbot/dataset.svg?style=social&label=Star"></a><br><a href="https://github.com/wheelbot/dataset"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
