@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
+  <td style="width:70%;"><strong>ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.19582"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/yjwangtj/ScenePilot-Bench"><img src="https://img.shields.io/github/stars/yjwangtj/ScenePilot-Bench.svg?style=social&label=Star"></a><br><a href="https://huggingface.co/datasets/larswangtj/ScenePilot-4k"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: College of Automotive and Energy Engineering, Tongji University<br>
+• Dataset: ScenePilot-4K, Samples: 2,770,000 sequences (based on 27.7M frames across 5-second clips), Modality: First-person driving videos, ego-trajectories, and camera parameters<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>Video Individual Counting and Tracking from Moving Drones: A Benchmark and Methods</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2601.12500"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
