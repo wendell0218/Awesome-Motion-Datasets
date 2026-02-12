@@ -8,6 +8,15 @@
 <tr><td><strong>Date</strong></td><td><strong>Paper</strong></td><td><strong>Contribution</strong></td><td><strong>Links</strong></td></tr>
 
 <tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.03209"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/is-mpg/amass"><img src="https://img.shields.io/github/stars/is-mpg/amass.svg?style=social&label=Star"></a><br><a href="https://amass.is.tue.mpg.de/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Max Planck Institute for Intelligent Systems<br>
+• Dataset: AMASS (Archive of Motion Capture as Surface Shapes), Samples: 40,000+, Modality: MoCap joints / 3D mesh (SMPL)<br>
+</td></tr>
+
+<tr>
   <td rowspan="2" style="width:15%;">Jan 2026</td>
   <td style="width:70%;"><strong>ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
