@@ -9,6 +9,16 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>MiDAS: A Multimodal Data Acquisition System and Dataset for Robot-Assisted Minimally Invasive Surgery</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.12407"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/uva-dsa/MiDAS"><img src="https://img.shields.io/github/stars/uva-dsa/MiDAS.svg?style=social&label=Star"></a><br><a href="https://uva-dsa.github.io/MiDAS/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Virginia<br>
+• Dataset: MiDAS Raven-II Peg Transfer Dataset, Samples: 15 trials (345 gesture samples), Modality: robot kinematics (MTM/PSM), electromagnetic hand tracking (EmHT), RGB-D hand tracking, foot pedal sensing, video<br>
+• Dataset: MiDAS da Vinci Xi Suturing Dataset (Hernia repair), Samples: 17 trials (1,724 gesture samples), Modality: electromagnetic hand tracking (EmHT), RGB-D hand tracking, foot pedal sensing, video<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.03209"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/is-mpg/amass"><img src="https://img.shields.io/github/stars/is-mpg/amass.svg?style=social&label=Star"></a><br><a href="https://amass.is.tue.mpg.de/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
