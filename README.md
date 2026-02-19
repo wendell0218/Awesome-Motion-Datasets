@@ -9,6 +9,54 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>Articulated 3D Scene Graphs for Open-World Mobile Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.16356"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://momasg.cs.uni-freiburg.de"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Freiburg<br>
+• Dataset: Arti4D-Semantic, Samples: 62 RGB-D sequences, 600 object interactions, Modality: RGB-D sequences, point trajectories, and object axis annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.14534"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/AIGeeksGroup/MoRL"><img src="https://img.shields.io/github/stars/AIGeeksGroup/MoRL.svg?style=social&label=Star"></a><br><a href="https://aigeeksgroup.github.io/MoRL"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The University of Sydney<br>
+• Dataset: MoUnd-CoT-140K, Samples: 140000, Modality: MoCap joints<br>
+• Dataset: MoGen-CoT-140K, Samples: 140000, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>Event-based Visual Deformation Measurement</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.14376"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Science and Technology of China<br>
+• Dataset: Event-based VDM Benchmark, Samples: over 120 sequences, Modality: Event streams, high-frame-rate (210 fps) grayscale videos, and ground truth deformation fields<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>T2MBench: A Benchmark for Out-of-Distribution Text-to-Motion Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.13751"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The Hong Kong University of Science and Technology (Guangzhou)<br>
+• Dataset: T2MBench OOD Prompt Dataset, Samples: 1,025, Modality: text descriptions<br>
+• Dataset: Physical Attribute Dataset, Samples: 745, Modality: MoCap joints<br>
+• Dataset: Semantic Attribute Dataset, Samples: 745, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.13656"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://kungfuathletebot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Beijing Institute of Technology<br>
+• Dataset: KungFuAthlete, Samples: 848 samples, Modality: reconstructed full-body motions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>MiDAS: A Multimodal Data Acquisition System and Dataset for Robot-Assisted Minimally Invasive Surgery</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.12407"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/uva-dsa/MiDAS"><img src="https://img.shields.io/github/stars/uva-dsa/MiDAS.svg?style=social&label=Star"></a><br><a href="https://uva-dsa.github.io/MiDAS/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
