@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.18726"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/user/example"><img src="https://img.shields.io/github/stars/user/example.svg?style=social&label=Star"></a><br><a href="https://example-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Example<br>
+• Dataset: ExampleMotion-100, Samples: 10,000 sequences, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>Articulated 3D Scene Graphs for Open-World Mobile Manipulation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.16356"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://momasg.cs.uni-freiburg.de"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
