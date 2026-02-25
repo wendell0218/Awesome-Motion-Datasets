@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.20943"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/user/repo"><img src="https://img.shields.io/github/stars/user/repo.svg?style=social&label=Star"></a><br><a href="https://project-page.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Example University<br>
+• Dataset: MotionBench-100, Samples: 10000, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>WildGHand: Learning Anti-Perturbation Gaussian Hand Avatars from Monocular In-the-Wild Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.20556"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/XuanHuang0/WildGHand"><img src="https://img.shields.io/github/stars/XuanHuang0/WildGHand.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University, P.R. China<br>
+• Dataset: Hand with Perturbation (HWP) dataset, Samples: 11 sequences (over 13.8K frames), Modality: monocular RGB hand videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.18726"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/user/example"><img src="https://img.shields.io/github/stars/user/example.svg?style=social&label=Star"></a><br><a href="https://example-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
