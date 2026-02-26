@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.21736"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://research.beingbeyond.com/jala"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Peking University<br>
+• Dataset: UniHand-Mix, Samples: 7,500,000, Modality: MANO parameters (3D hand pose sequences), RGB videos, text instructions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.20943"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/user/repo"><img src="https://img.shields.io/github/stars/user/repo.svg?style=social&label=Star"></a><br><a href="https://project-page.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
