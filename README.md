@@ -9,6 +9,34 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.23177"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Visual Computing Group, Humboldt University Berlin<br>
+• Dataset: MOT-RailwayPlatformCrowdHead Dataset (MOT-RPCH), Samples: 27 video sequences, Modality: RGB videos with head trajectories<br>
+• Dataset: RailwayPlatformCrowdHead, Samples: 1,660 images, Modality: RGB images with head bounding boxes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>PackUV: Packed Gaussian UV Maps for 4D Volumetric Video</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.23040"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://ivl.cs.brown.edu/packuv"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Brown University<br>
+• Dataset: PackUV-2B, Samples: 100 sequences (2B frames), Modality: multi-view RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>AeroDGS: Physically Consistent Dynamic Gaussian Splatting for Single-Sequence Aerial 4D Reconstruction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.22376"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The Ohio State University<br>
+• Dataset: Aero4D, Samples: None, Modality: Monocular RGB aerial videos, camera poses, 3D point clouds, instance masks, 3D bounding boxes, and 6-DoF trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.21736"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://research.beingbeyond.com/jala"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
@@ -23,6 +51,15 @@
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.20943"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/user/repo"><img src="https://img.shields.io/github/stars/user/repo.svg?style=social&label=Star"></a><br><a href="https://project-page.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
 <tr><td colspan="4">• Affiliation: Example University<br>
 • Dataset: MotionBench-100, Samples: 10000, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Feb 2026</td>
+  <td style="width:70%;"><strong>SIMSPINE: A Biomechanics-Aware Simulation Framework for 3D Spine Motion Annotation and Benchmarking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2602.20792"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://saifkhichi96.github.io/research/simspine/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: German Research Center for Artificial Intelligence (DFKI)<br>
+• Dataset: SIMSPINE, Samples: 2.14 million frames, Modality: 3D spine positions, vertebral rotations, and RGB videos<br>
 </td></tr>
 
 <tr>
