@@ -8,6 +8,54 @@
 <tr><td><strong>Date</strong></td><td><strong>Paper</strong></td><td><strong>Contribution</strong></td><td><strong>Links</strong></td></tr>
 
 <tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.02138"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/OpenVGLab/OmniLottie"><img src="https://img.shields.io/github/stars/OpenVGLab/OmniLottie.svg?style=social&label=Star"></a><br><a href="https://openvglab.github.io/OmniLottie/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Fudan University<br>
+• Dataset: MMLottie-2M, Samples: 2,000,000, Modality: Lottie animations (vector motion parameters)<br>
+• Dataset: MMLottieBench, Samples: 900, Modality: Lottie animations (vector motion parameters)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.01294"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://colin-jing.github.io/SLMP/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The Hong Kong University of Science and Technology (Guangzhou)<br>
+• Dataset: human combat motion capture dataset, Samples: 502 clips, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>AI-IO: An Aerodynamics-Inspired Real-Time Inertial Odometry for Quadrotors</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.00597"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/SJTU-ViSYS-team/AI-IO"><img src="https://img.shields.io/github/stars/SJTU-ViSYS-team/AI-IO.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Shanghai Key Laboratory of Navigation and Location-Based Services, Shanghai Jiao Tong University<br>
+• Dataset: AI-IO Quadrotor Flight Dataset, Samples: 22 sequences, Modality: IMU measurements, rotor speed, ground-truth poses and velocities<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>ReMoT: Reinforcement Learning with Motion Contrast Triplets</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.00461"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="not specified"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Xi’an Jiaotong University<br>
+• Dataset: ReMoT-16K, Samples: 16,500 triplets, Modality: Multi-image triplets (RGB) with motion-contrast meta-annotations (camera pose, robot action logs, segmentation masks)<br>
+• Dataset: ReMoT-16k-Test, Samples: 600 triplets (1776 questions), Modality: Multi-image triplets (RGB) with motion-contrast meta-annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>SurgFusion-Net: Diversified Adaptive Multimodal Fusion Network for Surgical Skill Assessment</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.00108"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/HRL-Mike/SurgFusion-Net"><img src="https://img.shields.io/github/stars/HRL-Mike/SurgFusion-Net.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: UCL Hawkes Institute and the Department of Medical Physics & Biomedical Engineering, UCL, UK<br>
+• Dataset: RAH-skill, Samples: 37, Modality: RGB videos + optical flow + tool segmentation masks<br>
+• Dataset: RARP-skill, Samples: 33, Modality: RGB videos + optical flow + tool segmentation masks<br>
+</td></tr>
+
+<tr>
   <td rowspan="2" style="width:15%;">Feb 2026</td>
   <td style="width:70%;"><strong>Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
