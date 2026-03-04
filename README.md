@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.02985"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/reubendocea/d4d"><img src="https://img.shields.io/github/stars/reubendocea/d4d.svg?style=social&label=Star"></a><br><a href="https://reubendocea.github.io/d4d/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Translational Surgical Oncology, National Center for Tumor Diseases (NCT), NCT/UCC Dresden, Germany<br>
+• Dataset: D4D Dataset, Samples: 98 curated recordings (over 300,000 frames), Modality: Stereo endoscopic video (RGB), structured-light 3D point clouds, stereo depth maps, instrument masks<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.02138"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/OpenVGLab/OmniLottie"><img src="https://img.shields.io/github/stars/OpenVGLab/OmniLottie.svg?style=social&label=Star"></a><br><a href="https://openvglab.github.io/OmniLottie/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
