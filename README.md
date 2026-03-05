@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>SimpliHuMoN: Simplifying Human Motion Prediction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.04399"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/nghorbani/amass"><img src="https://img.shields.io/github/stars/nghorbani/amass.svg?style=social&label=Star"></a><br><a href="https://amass.is.tue.mpg.de/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Max Planck Institute for Intelligent Systems<br>
+• Dataset: AMASS (Archive of Motion Capture as Surface Shapes), Samples: 11,265 motions, Modality: MoCap joints (SMPL body parameters)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.02985"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/reubendocea/d4d"><img src="https://img.shields.io/github/stars/reubendocea/d4d.svg?style=social&label=Star"></a><br><a href="https://reubendocea.github.io/d4d/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
