@@ -9,6 +9,25 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.19770"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Fujian Key Laboratory of Urban Intelligent Sensing and Computing, Xiamen University<br>
+• Dataset: FlashMotion, Samples: 240 sequences, Modality: Event stream, RGB video, LiDAR point clouds, IMU, 1000Hz 2D labels, 60Hz 3D SMPL labels<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>PCSTracker: Long-Term Scene Flow Estimation for Point Cloud Sequences</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.19762"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/MinLin2022/PCSTracker"><img src="https://img.shields.io/github/stars/MinLin2022/PCSTracker.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Huazhong University of Science and Technology<br>
+• Dataset: PointOdyssey3D, Samples: 32,449 samples (32,307 training samples and 142 test samples), Modality: Point cloud sequences<br>
+• Dataset: ADT3D, Samples: 498 sequences, Modality: Point cloud sequences<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>DROID-SLAM in the Wild</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.19076"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/MoyangLi00/DROID-W.git"><img src="https://img.shields.io/github/stars/MoyangLi00/DROID-W.git.svg?style=social&label=Star"></a><br></td></tr>
