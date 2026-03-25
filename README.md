@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.23376"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/amap-cvlab/ABot-PhysWorld"><img src="https://img.shields.io/github/stars/amap-cvlab/ABot-PhysWorld.svg?style=social&label=Star"></a><br><a href="https://github.com/amap-cvlab/ABot-PhysWorld"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Alibaba Group<br>
+• Dataset: EZSbench, Samples: 200 (action-conditioned subset), Modality: RGB videos, action trajectories, physics-aware captions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.19770"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
