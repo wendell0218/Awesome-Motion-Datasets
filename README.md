@@ -9,6 +9,15 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.24021"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/GaoLii/QuadFM"><img src="https://img.shields.io/github/stars/GaoLii/QuadFM.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Alibaba Group<br>
+• Dataset: Quadruped Foundational Motion (QuadFM), Samples: 11784, Modality: MoCap, 12-DoF joint positions, and pose trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.23376"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/amap-cvlab/ABot-PhysWorld"><img src="https://img.shields.io/github/stars/amap-cvlab/ABot-PhysWorld.svg?style=social&label=Star"></a><br><a href="https://github.com/amap-cvlab/ABot-PhysWorld"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
