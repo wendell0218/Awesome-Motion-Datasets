@@ -9,6 +9,45 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.25716"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Huazhong University of Science and Technology<br>
+• Dataset: HM-World, Samples: 59,225, Modality: RGB videos, camera poses, and subject trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.25544"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/amathislab/musclemimic"><img src="https://img.shields.io/github/stars/amathislab/musclemimic.svg?style=social&label=Star"></a><br><a href="https://github.com/amathislab/musclemimic"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: EPFL, Switzerland<br>
+• Dataset: BIMANUAL_TRAIN / BIMANUAL_TEST, Samples: 2082, Modality: MoCap joints<br>
+• Dataset: KINESIS (retargeted), Samples: 1080, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.25135"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://taegyoun88.github.io/EgoXtreme/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Seoul National University<br>
+• Dataset: EgoXtreme, Samples: 845 sequences (approx. 1.3 million frames), Modality: Egocentric RGB video, 6D pose trajectories (MoCap), IMU/SLAM data<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Towards Video Anomaly Detection from Event Streams: A Baseline and Benchmark Datasets</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.24991"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Northwest Polytechnical University, Xi’an, China<br>
+• Dataset: UCF-Crime (event-based version), Samples: 1900 videos, Modality: Event streams<br>
+• Dataset: CCTV-Fights (event-based version), Samples: 1000 videos, Modality: Event streams<br>
+• Dataset: UBnormal (event-based version), Samples: 543 videos, Modality: Event streams<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.24021"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/GaoLii/QuadFM"><img src="https://img.shields.io/github/stars/GaoLii/QuadFM.svg?style=social&label=Star"></a><br></td></tr>
