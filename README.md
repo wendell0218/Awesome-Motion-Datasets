@@ -8,6 +8,181 @@
 <tr><td><strong>Date</strong></td><td><strong>Paper</strong></td><td><strong>Contribution</strong></td><td><strong>Links</strong></td></tr>
 
 <tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.07335"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://opendrivelab.com/TAMEn"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Fudan University<br>
+• Dataset: TAMEn, Samples: 571, Modality: visuo-tactile bimanual trajectories (RGB videos, tactile images, 6D poses, robot joint commands)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.06782"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Anhui University<br>
+• Dataset: EFace, Samples: 131 identities, Modality: Event streams<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.06010"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Sun Yat-sen University<br>
+• Dataset: OmniCAM, Samples: 830,000 videos, Modality: RGB videos with 3D camera trajectories (poses)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.04834"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Zhejiang University<br>
+• Dataset: E-VLA Dataset, Samples: 724 episodes (339,310 frames), Modality: synchronized RGB, event streams, and robot actions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>BiTDiff: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.04395"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute of Information Science, Beijing Jiaotong University, Beijing, China<br>
+• Dataset: CM-Data, Samples: 1500, Modality: SMPL-X (3D body, hand, and face motion)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.04331"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Science and Technology of China<br>
+• Dataset: Trajectory-Match, Samples: 3 scenes, Modality: RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>OpenRC: An Open-Source Robotic Colonoscopy Framework for Multimodal Data Acquisition and Autonomy Research</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.03781"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: The University of Texas at Austin<br>
+• Dataset: OpenRC Dataset, Samples: 1,894 teleoperated episodes, Modality: 6-DoF pose trajectories, robot joint-space actuation, operator actions, RGB videos<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>MoViD: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.03299"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/HKUST-MINSys-Lab/MoViD"><img src="https://img.shields.io/github/stars/HKUST-MINSys-Lab/MoViD.svg?style=social&label=Star"></a><br><a href="https://youtu.be/L4Bx_LvPXB8"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Hong Kong University of Science and Technology<br>
+• Dataset: UAV-Based Human Tracking Dataset, Samples: 360,000 frames, Modality: RGB, 3D Keypoints (17 joints)<br>
+• Dataset: Multimodal Gait Analysis Dataset, Samples: 20 participants, Modality: RGB, Depth, Infrared, IMU, bone vectors, 3D skeleton, text prompts<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>SentiAvatar: Towards Expressive and Interactive Digital Humans</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.02908"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://sentiavatar.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Renmin University of China<br>
+• Dataset: SuSuInterActs, Samples: 21133, Modality: optical motion capture (6D rotation for 63 joints: 25 body + 19 x 2 hands) and facial blendshapes (51-dim ARKit)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.02639"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of vehicle and Mobility, Tsinghua University, Beijing, China<br>
+• Dataset: Articulated vehicle experiment platform dataset, Samples: 4,000 samples, Modality: Surround-view monocular images, LiDAR pointclouds, articulation angle measurements<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>O-ConNet: Geometry-Aware End-to-End Inference of Over-Constrained Spatial Mechanisms</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.02038"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, Beijing, China<br>
+• Dataset: Bennett 4R dataset, Samples: 42860, Modality: 3D joint trajectories (position, velocity, and normalized speed ratio)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.01666"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: POSTECH<br>
+• Dataset: DynaVid-Human, Samples: None, Modality: RGB videos + optical flow<br>
+• Dataset: DynaVid-Camera, Samples: None, Modality: RGB videos + optical flow<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.00761"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/SamarAnsariUK/PrivHAR-Bench"><img src="https://img.shields.io/github/stars/SamarAnsariUK/PrivHAR-Bench.svg?style=social&label=Star"></a><br><a href="https://doi.org/10.5281/zenodo.19352048"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Chester, United Kingdom<br>
+• Dataset: PrivHAR-Bench, Samples: 17388, Modality: RGB video frames and estimated pose keypoints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>GRVS: a Generalizable and Recurrent Approach to Monocular Dynamic View Synthesis</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.29734"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://thomas-tanay.github.io/grvs"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Huawei Noah’s Ark Lab<br>
+• Dataset: Kubric-4D-dyn, Samples: 5100 scenes (5000 training and 100 test scenes, each with 81 frames), Modality: RGB videos + camera parameters<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Self-Consistency for LLM-Based Motion Trajectory Generation and Verification</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.29301"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://majiaju.io/trajectory-self-consistency"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Stanford University<br>
+• Dataset: Motion Trajectory Benchmark, Samples: 2240, Modality: 2D motion trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>SyriSign: A Parallel Corpus for Arabic Text to Syrian Arabic Sign Language Translation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.29219"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Moham-Amer/SyriSign"><img src="https://img.shields.io/github/stars/Moham-Amer/SyriSign.svg?style=social&label=Star"></a><br><a href="https://huggingface.co/datasets/Mohammad-Amer-Khalil/SyriSign"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Arab International University, Daraa, Syria<br>
+• Dataset: SyriSign, Samples: 1500 video samples, Modality: RGB videos and MediaPipe pose landmarks<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>HandX: Scaling Bimanual Motion and Interaction Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.28766"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://handx-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: University of Illinois Urbana-Champaign<br>
+• Dataset: HandX, Samples: 485,700 text-motion pairs, Modality: MoCap joints<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Event6D: Event-based Novel Object 6D Pose Tracking</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.28045"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://chohoonhee.github.io/Event6D"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: KAIST<br>
+• Dataset: EventBlender6D, Samples: 495,840 samples, Modality: Synthetic RGB, events, depth, 6D pose<br>
+• Dataset: EventHO3D, Samples: 103,462 samples, Modality: Simulated events, depth, 6D pose<br>
+• Dataset: Event6D, Samples: 54,556 samples, Modality: Real events, RGB, depth, MoCap 6D pose<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Mar 2026</td>
+  <td style="width:70%;"><strong>Leveraging Avatar Fingerprinting: A Multi-Generator Photorealistic Talking-Head Public Database and Benchmark</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2603.26934"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/BiDAlab/AVAPrintDB"><img src="https://img.shields.io/github/stars/BiDAlab/AVAPrintDB.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: BiometricsAI, Universidad Autónoma de Madrid, Madrid, Spain<br>
+• Dataset: AVAPrintDB, Samples: 66,069 avatar videos, Modality: Photorealistic talking-head RGB videos<br>
+</td></tr>
+
+<tr>
   <td rowspan="2" style="width:15%;">Mar 2026</td>
   <td style="width:70%;"><strong>Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
