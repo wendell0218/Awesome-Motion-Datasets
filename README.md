@@ -9,6 +9,25 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.07991"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Thelegendzz/MotionScape"><img src="https://img.shields.io/github/stars/Thelegendzz/MotionScape.svg?style=social&label=Star"></a><br><a href="https://github.com/Thelegendzz/MotionScape"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Aerospace Information Research Institute, Chinese Academy of Sciences<br>
+• Dataset: MotionScape, Samples: 4.5M frames, Modality: 4K UAV-view RGB videos, 6-DoF camera trajectories, semantic descriptions<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>LPM 1.0: Video-based Character Performance Model</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.07823"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://large-performance-model.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: International Digital Economy Academy (IDEA)<br>
+• Dataset: LPM-Bench, Samples: 1000 test cases, Modality: RGB videos + Audio + Text<br>
+• Dataset: LPM Human-centric Training Dataset, Samples: 31 million clips, Modality: RGB videos + Audio + Text<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
   <td style="width:70%;"><strong>TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.07335"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://opendrivelab.com/TAMEn"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
