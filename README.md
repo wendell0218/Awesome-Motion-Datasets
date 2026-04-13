@@ -9,6 +9,42 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09473"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Metaverse-AI-Lab-THU/ImViD"><img src="https://img.shields.io/github/stars/Metaverse-AI-Lab-THU/ImViD.svg?style=social&label=Star"></a><br><a href="https://sheng-qi.github.io/IVV/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Tsinghua University<br>
+• Dataset: ImViD, Samples: 16 video sequences across 7 scenes, Modality: Multi-view 5K-resolution RGB videos and multi-view audio<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>PhysInOne: Visual Physics Learning and Reasoning in One Suite</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09415"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/vLAR-Group/PhysInOne"><img src="https://img.shields.io/github/stars/vLAR-Group/PhysInOne.svg?style=social&label=Star"></a><br><a href="https://vlar-group.github.io/PhysInOne.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: vLAR Group<br>
+• Dataset: PhysInOne, Samples: 153,810 dynamic 3D scenes (2 million videos), Modality: RGB videos, 3D trajectories, depth, segmentation masks, 3D meshes<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09411"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Kin-Zhang/SynFlow"><img src="https://img.shields.io/github/stars/Kin-Zhang/SynFlow.svg?style=social&label=Star"></a><br><a href="https://kin-github.io/SynFlow"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: RPL, KTH Royal Institute of Technology, Stockholm, Sweden<br>
+• Dataset: SynFlow-4k, Samples: 4,000 sequences, Modality: LiDAR<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09057"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Alibaba Cloud Computing<br>
+• Dataset: PAV, Samples: 460,218 video clips, Modality: RGB videos with object trajectories and second-order kinematic annotations (position, velocity, acceleration)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
   <td style="width:70%;"><strong>MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.07991"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Thelegendzz/MotionScape"><img src="https://img.shields.io/github/stars/Thelegendzz/MotionScape.svg?style=social&label=Star"></a><br><a href="https://github.com/Thelegendzz/MotionScape"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
