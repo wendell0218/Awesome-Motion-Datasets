@@ -9,6 +9,106 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>LottieGPT: Tokenizing Vector Animation for Autoregressive Generation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.11792"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://lottiegpt.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Shenzhen International Graduate School, Tsinghua University<br>
+• Dataset: LottieAnimation-660K, Samples: 660,000, Modality: Lottie JSON (vector animations encoding keyframes, transforms, and hierarchical motion)<br>
+• Dataset: LottieBench, Samples: 230, Modality: Lottie JSON (evaluation benchmark for vector animation)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.11689"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/meituan-longcat/LARYBench"><img src="https://img.shields.io/github/stars/meituan-longcat/LARYBench.svg?style=social&label=Star"></a><br><a href="https://meituan-longcat.github.io/LARYBench"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Meituan<br>
+• Dataset: LARY (Latent Action Representation Yielding) Benchmark, Samples: 1,216,760 video clips, 595,237 motion trajectories, Modality: RGB videos, robot motion trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>EagleVision: A Multi-Task Benchmark for Cross-Domain Perception in High-Speed Autonomous Racing</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.11400"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://avlab.io/EagleVision"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Skolkovo Institute of Science and Technology<br>
+• Dataset: EagleVision, Samples: 28,056 frames / 31,258 trajectories, Modality: LiDAR, vehicle trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>STORM: End-to-End Referring Multi-Object Tracking in Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.10527"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/amazon-science/storm-referring-multi-object-grounding"><img src="https://img.shields.io/github/stars/amazon-science/storm-referring-multi-object-grounding.svg?style=social&label=Star"></a><br><a href="https://github.com/amazon-science/storm-referring-multi-object-grounding"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Northeastern University<br>
+• Dataset: STORM-Bench, Samples: 15,807 videos (15,093 training, 714 evaluation), 73,700 tracked objects (trajectories), Modality: RGB videos + bounding box trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Make it Simple, Make it Dance: Dance Motion Simplification to Support Novices' Dance Learning</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.10490"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Electrical Engineering, KAIST, Republic of Korea<br>
+• Dataset: Paired Original-Simplified Dance Dataset, Samples: 548 pairs, Modality: MoCap joints (SMPL format)<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Point2Pose: Occlusion-Recovering 6D Pose Tracking and 3D Reconstruction for Multiple Unknown Objects Via 2D Point Trackers</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.10415"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://youtu.be/NRfGyx1nes4"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: MIT Biomimetic Robotics Lab, Massachusetts Institute of Technology<br>
+• Dataset: YCBMultiTrack, Samples: 15 sequences (4 synthetic, 11 real-world), Modality: RGB-D videos, 6D object pose trajectories, motion-capture ground truth<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Dual-Exposure Imaging with Events</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.10273"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/mingyuan-lin/E-DEI/"><img src="https://img.shields.io/github/stars/E-DEI/.svg?style=social&label=Star"></a><br><a href="https://github.com/mingyuan-lin/E-DEI/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: School of Electronic Information, Wuhan University, Wuhan 430072, China<br>
+• Dataset: PIED (Paired low-/normal-light Images and Events), Samples: 56 sequences (2617 image pairs and corresponding event streams), Modality: RGB images and event streams<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09985"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/K1NSA/YUV20K"><img src="https://img.shields.io/github/stars/K1NSA/YUV20K.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Department of Computer Science, Great Bay University, Dongguan, Guangdong, China<br>
+• Dataset: YUV20K, Samples: 24,295 annotated frames across 91 scenes, Modality: RGB videos with pixel-level mask and bounding box annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>ACCIDENT: A Benchmark Dataset for Vehicle Accident Detection from Traffic Surveillance Videos</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09819"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://accidentbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: PiVa AI<br>
+• Dataset: ACCIDENT, Samples: 4238, Modality: CCTV surveillance videos, synthetic RGB, LiDAR, and trajectories<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Tipiano: Cascaded Piano Hand Motion Synthesis via Fingertip Priors</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09692"><img src="https://img.shields.io/badge/Paper-red"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Korea Advanced Institute of Science and Technology (KAIST)<br>
+• Dataset: Tipiano Dataset, Samples: 153 pieces, Modality: markerless motion capture, MIDI, and expert fingering annotations<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>WearBCI Dataset: Understanding and Benchmarking Real-World Wearable Brain-Computer Interfaces Signals</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09649"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/HKUST-MINSys-Lab/WearBCI-Dataset"><img src="https://img.shields.io/github/stars/HKUST-MINSys-Lab/WearBCI-Dataset.svg?style=social&label=Star"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Hong Kong University of Science and Technology<br>
+• Dataset: WearBCI, Samples: 36 subjects, Modality: EEG, IMU (acceleration, gyroscope), egocentric video<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
   <td style="width:70%;"><strong>Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.09473"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://github.com/Metaverse-AI-Lab-THU/ImViD"><img src="https://img.shields.io/github/stars/Metaverse-AI-Lab-THU/ImViD.svg?style=social&label=Star"></a><br><a href="https://sheng-qi.github.io/IVV/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
