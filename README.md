@@ -9,6 +9,24 @@
 
 <tr>
   <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.12765"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://parkyeeun23.github.io/HUM4D/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Visual and Spatial AI Lab, VCCM Section, College of PVFA, Department of ECEN, Texas A&M University<br>
+• Dataset: HUM4D, Samples: 52 action sequences (83,768 frames), Modality: multi-view RGB-D, MoCap joints, SMPL parameters, SMPL-X parameters<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
+  <td style="width:70%;"><strong>Scalable Trajectory Generation for Whole-Body Mobile Manipulation</strong></td>
+  <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
+  <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.12565"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://automoma.pages.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
+<tr><td colspan="4">• Affiliation: Institute for AI, Peking University<br>
+• Dataset: AutoMoMa, Samples: 500,000 trajectories, Modality: joint-space trajectories, RGB-D images, point clouds<br>
+</td></tr>
+
+<tr>
+  <td rowspan="2" style="width:15%;">Apr 2026</td>
   <td style="width:70%;"><strong>LottieGPT: Tokenizing Vector Animation for Autoregressive Generation</strong></td>
   <td style="width:15%;"><img src="https://img.shields.io/badge/Dataset-blue"></td>
   <td style="width:15%;"><a href="http://arxiv.org/pdf/2604.11792"><img src="https://img.shields.io/badge/Paper-red"></a><br><a href="https://lottiegpt.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br></td></tr>
